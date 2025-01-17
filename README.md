@@ -1,4 +1,3 @@
-## Hi, i'm Thyerre Sampaio
 
 <div>
   <a href="https://github.com/tcs322">
